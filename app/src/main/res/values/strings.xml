@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">MyFilosifisApp</string>
+
+
+    <string name="nameFilsuf">Nama Filsuf</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Aristoteles</item>
+        <item>Epicurus</item>
+        <item>Socrates</item>
+        <item>Thales</item>
+        <item>Epictetus</item>
+        <item>Pythagoras</item>
+        <item>Parmenides</item>
+        <item>Heraklietos</item>
+        <item>Anaxagoras</item>
+        <item>Empedokles</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aristoteles adalah seorang filsuf yang sangat penting dalam sejarah pemikiran filosofis. Ia lahir di Stagira, Yunani, pada tahun 384 SM, dan meninggal pada tahun 322 SM. Aristoteles adalah murid dari Plato, seorang filsuf terkenal lainnya.
+
+Aristoteles dikenal karena kontribusinya dalam berbagai bidang ilmu pengetahuan dan filsafat, termasuk etika, logika, metafisika, politik, biologi, dan banyak lagi. Salah satu konsep paling terkenal yang dikembangkan oleh Aristoteles adalah konsep tentang "logika" atau "logika aristotelian," yang menjadi dasar bagi pemikiran logis dan ilmiah selama ribuan tahun.
+
+Selain itu, Aristoteles juga mengembangkan etika yang sangat berpengaruh, dengan penekanannya pada konsep kebahagiaan dan kebijaksanaan sebagai tujuan utama dalam kehidupan manusia. Ia juga membuat klasifikasi tumbuhan dan hewan yang menjadi dasar bagi ilmu biologi selama berabad-abad.
+
+Dalam bidang politik, Aristoteles menulis karya yang terkenal, "Politika," di mana ia membahas berbagai bentuk pemerintahan dan menyusun teori tentang bagaimana pemerintahan yang baik seharusnya berfungsi untuk mencapai kebahagiaan masyarakat.
+
+Aristoteles adalah salah satu filsuf terbesar dalam sejarah pemikiran Barat dan karyanya tetap memengaruhi banyak aspek budaya, ilmu pengetahuan, dan filsafat sampai saat ini.
+        </item>
+        <item>
+            Epicurus adalah seorang filsuf Yunani kuno yang hidup sekitar 341-270 SM. Ia merupakan pendiri Sekolah Epikurean, sebuah aliran filsafat yang dikenal dengan nama Epicureanisme. Filsafat Epicurus berfokus pada pencapaian kebahagiaan dan penghilangan penderitaan dalam kehidupan manusia. Berikut adalah beberapa konsep utama dalam pemikiran Epicurus:
+
+1. Kebahagiaan sebagai Tujuan Utama: Epicurus percaya bahwa tujuan tertinggi dalam kehidupan adalah mencapai kebahagiaan. Baginya, kebahagiaan adalah keadaan ketenangan pikiran dan tubuh, yang diperoleh dengan menghindari penderitaan fisik dan mental serta mencari kenikmatan yang sederhana dan bebas dari kecenderungan berlebihan.
+
+2. Penghindaran Penderitaan: Epicurus mengajarkan konsep "ataraxia" (ketenangan pikiran) dan "aponia" (kebebasan dari rasa sakit). Ia percaya bahwa kita harus menghindari jenis penderitaan fisik dan emosional sebanyak mungkin, baik melalui pemahaman tentang alam semesta maupun dengan mempraktikkan kenikmatan yang bijak.
+
+3. Ketidakpercayaan pada Tuhan-tuhan yang Campur Tangan**: Epicurus adalah seorang ateis yang menolak kepercayaan pada para dewa yang campur tangan dalam urusan manusia. Baginya, dewa-dewa itu eksis, tetapi mereka tidak peduli dengan urusan manusia dan tidak memengaruhi nasib atau penderitaan kita.
+
+4. Pertemanan dan Hubungan yang Baik: Epicurus juga menekankan pentingnya pertemanan dan hubungan yang baik dalam mencapai kebahagiaan. Ia berpendapat bahwa hubungan yang mendalam dan persahabatan yang sejati dapat memberikan kenikmatan dan dukungan emosional yang besar.
+
+5. Hedonisme yang Bijak**: Meskipun Epicurus mengajarkan kenikmatan sebagai salah satu komponen kebahagiaan, ia menekankan bahwa kita harus mengejar kenikmatan yang sederhana dan bijak, bukan kenikmatan berlebihan yang dapat menyebabkan penderitaan di masa depan.
+
+Pemikiran Epicurus memengaruhi banyak filsuf dan pemikir di masa berikutnya, dan aliran Epicureanisme tetap eksis dalam sejarah filsafat. Konsep-konsepnya tentang kebahagiaan, kenikmatan bijak, dan penghindaran penderitaan tetap menjadi bahan pertimbangan dalam pemikiran etika dan filsafat hidup manusia.
+        </item>
+        <item>
+            Socrates adalah seorang filsuf Yunani kuno yang hidup sekitar tahun 470 SM hingga 399 SM di Athena, sebuah kota penting dalam peradaban Yunani kuno. Ia dikenal sebagai salah satu tokoh paling penting dalam sejarah filsafat Barat. Berikut adalah beberapa hal penting tentang Sokrates:
+
+1. **Metode Sokratik**: Salah satu kontribusi utama Sokrates dalam filsafat adalah pengembangan metode dialektika, yang kemudian dikenal sebagai "metode Sokratik." Ia menggunakan pertanyaan-pertanyaan tajam dan perdebatan untuk mendorong orang untuk merenungkan konsep-konsep dan keyakinan mereka sendiri. Metode ini sering kali berfokus pada isu-isu etika dan moral.
+
+2. **Penekanan pada Pengetahuan Diri**: Salah satu ajaran utama Sokrates adalah gagasan bahwa "pengetahuan diri" atau introspeksi adalah kunci untuk pemahaman diri dan peningkatan moral. Ia percaya bahwa dengan memahami diri sendiri, seseorang dapat mencapai kebijaksanaan dan kebajikan.
+
+3. **Mengajukan Pertanyaan Etis**: Sokrates sering kali mengajukan pertanyaan-pertanyaan tentang moralitas, kebaikan, keadilan, dan kebenaran. Ia tidak menulis karya-karya filosofis, tetapi pemikiran dan ajarannya banyak dicatat oleh muridnya, terutama Plato, dalam tulisan-tulisan mereka.
+
+4. **Keterlibatan dalam Urusan Publik**: Sokrates terkenal karena keterlibatannya dalam urusan politik dan publik di Athena. Ia sering kali mengkritik pemerintah dan otoritas, yang pada akhirnya membuatnya diadili atas tuduhan menghujat dewa-dewa dan merusak moral anak muda. Sokrates akhirnya dihukum mati dengan cara meminum racun, sebuah peristiwa yang terkenal dalam sejarah filsafat.
+
+5. **Pengaruh Terhadap Filsafat Berikutnya**: Sokrates memiliki pengaruh yang sangat besar terhadap perkembangan filsafat Barat. Muridnya, Plato, kemudian mendirikan Akademi, salah satu sekolah filsafat terawal di dunia. Ajaran-ajaran Sokrates juga memengaruhi filsuf-filsuf besar lainnya seperti Aristoteles, yang merupakan murid dari Plato.
+
+Sokrates adalah seorang filsuf yang berfokus pada eksplorasi nilai-nilai moral dan etika, serta pentingnya refleksi pribadi dalam pencarian kebenaran. Meskipun ia tidak meninggalkan tulisan-tulisan sendiri, kontribusinya dalam perkembangan filsafat tetap menjadi pusat perhatian dalam sejarah pemikiran manusia.
+        </item>
+        <item>
+           Thales adalah seorang tokoh penting dalam sejarah filsafat dan ilmu pengetahuan kuno. Ia hidup sekitar abad ke-6 SM di kota Miletus, yang terletak di wilayah yang sekarang menjadi bagian dari Turki. Thales dianggap sebagai salah satu dari Tujuh Orang Bijak Yunani Pertama (Seven Sages), sebuah kelompok filsuf-filsuf awal yang dikenal karena kontribusi mereka dalam berbagai bidang ilmu dan filsafat. Berikut beberapa poin penting tentang Thales:
+
+1. **Bapak Filsafat Barat**: Thales sering dianggap sebagai salah satu pendiri filsafat Barat. Ia dikenal karena berusaha menjelaskan alam semesta dan fenomena alam dengan menggunakan penjelasan rasional daripada atribusi kepada dewa-dewa atau mitos.
+
+2. **Asal Mula Segala Sesuatu**: Salah satu ajaran terkenal Thales adalah keyakinannya bahwa "air" adalah elemen dasar yang merupakan asal mula segala sesuatu. Ia menganggap air sebagai elemen yang mendasari dan menghasilkan berbagai fenomena alam, seperti tanah, udara, dan bahkan jiwa.
+
+3. **Pendekatan Empiris**: Thales dikenal karena menggunakan pendekatan empiris dalam penelitiannya. Ia mengamati alam dan fenomena alam secara langsung untuk mencari penjelasan rasional tentang bagaimana segala sesuatu bekerja.
+
+4. **Kontribusi dalam Matematika**: Selain filsafat, Thales juga memiliki kontribusi dalam bidang matematika. Ia dianggap sebagai orang pertama yang mencoba mengembangkan dasar-dasar geometri dan mengemukakan beberapa teorema dalam segitiga.
+
+5. **Pengaruh pada Filsafat Selanjutnya**: Ajaran Thales memengaruhi perkembangan filsafat dan ilmu pengetahuan di masa depan. Penggunaan metode empiris dalam memahami alam semesta menjadi landasan bagi filsafat dan ilmu pengetahuan yang berkembang selanjutnya di Yunani kuno.
+
+Meskipun sedikit yang diketahui secara pasti tentang karya tulisnya, kontribusi Thales dalam mengubah pemikiran manusia dari penjelasan mitos ke penjelasan rasional tentang alam semesta menjadikannya tokoh yang sangat penting dalam sejarah filsafat dan ilmu pengetahuan.
+        </item>
+        <item>
+            Epictetus adalah seorang filsuf Stoik yang hidup sekitar tahun 50-135 Masehi. Ia lahir di Hierapolis, sebuah kota di wilayah yang sekarang menjadi bagian dari Turki. Epictetus dikenal karena ajarannya tentang etika Stoik dan pemahaman tentang cara mencapai kebahagiaan melalui kontrol diri dan ketenangan batin. Berikut adalah beberapa poin penting tentang Epictetus:
+
+1. **Filsuf Stoik**: Epictetus adalah salah satu tokoh utama dalam aliran Stoik, sebuah aliran filsafat Yunani kuno yang menekankan kontrol diri, ketenangan batin, dan kebijaksanaan dalam menghadapi peristiwa-peristiwa dalam hidup. Ia mengembangkan ajaran Stoik dengan menekankan pentingnya memisahkan apa yang dapat kita kendalikan (pikiran, sikap, dan tindakan kita) dari apa yang tidak dapat kita kendalikan (peristiwa eksternal).
+
+2. **Ketidakpedulian pada Hal-hal Luar**: Epictetus mengajarkan bahwa kita harus belajar untuk tidak terlalu terikat pada hal-hal yang di luar kendali kita, seperti uang, ketenaran, atau pandangan orang lain tentang kita. Ia percaya bahwa kebahagiaan sejati dapat dicapai dengan fokus pada hal-hal yang dapat kita kendalikan, yaitu sikap dan tindakan kita.
+
+3. **Dikotomi Kontrol**: Konsep utama dalam ajaran Epictetus adalah "dikotomi kontrol," yang berarti membedakan antara hal-hal yang dalam kendali kita (kita memiliki kontrol penuh) dan hal-hal yang di luar kendali kita (kita tidak memiliki kontrol). Ia mengajarkan agar kita memusatkan perhatian kita pada hal-hal yang dapat kita kendalikan dan menerima hal-hal yang di luar kendali sebagai bagian dari alam.
+
+4. **Manual Epictetus**: Salah satu karya terkenal Epictetus adalah "Enchiridion" atau "Manual," sebuah panduan praktis tentang bagaimana menerapkan prinsip-prinsip Stoik dalam kehidupan sehari-hari. Buku ini menjadi sangat populer dan masih dibaca hingga saat ini.
+
+5. **Pengaruh pada Filsafat dan Psikologi**: Ajaran Epictetus memiliki pengaruh yang besar dalam perkembangan filsafat etika, psikologi, dan pemikiran praktis. Filsuf-filsuf dan psikolog selanjutnya sering mengutip ajarannya tentang kontrol diri, ketenangan batin, dan pengendalian emosi.
+
+Epictetus adalah seorang filsuf Stoik yang penting dalam sejarah pemikiran etika dan filsafat praktis. Ajarannya tentang cara mencapai kebahagiaan melalui pengendalian diri dan ketenangan batin tetap relevan dalam upaya menghadapi tantangan dalam kehidupan sehari-hari.
+        </item>
+        <item>
+            Pythagoras adalah seorang filsuf dan matematikawan kuno yang dikenal karena kontribusinya yang penting dalam bidang matematika dan juga karena pengaruhnya dalam perkembangan aliran keagamaan dan filosofis yang dikenal sebagai "Pythagoreanisme." Ia hidup sekitar tahun 570-495 SM dan banyak dari catatan tentang kehidupan dan pemikirannya berasal dari penulis-penulis Yunani kuno. Berikut adalah beberapa poin penting tentang Pythagoras:
+
+1. **Matematikawan**: Pythagoras dikenal terutama karena menemukan "Teorema Pythagoras," yang merupakan salah satu teorema paling terkenal dalam matematika. Teorema ini menyatakan bahwa dalam sebuah segitiga siku-siku, kuadrat dari panjang sisi miring (hipotenusa) sama dengan jumlah kuadrat dari panjang sisi-sisi yang lain. Rumusnya dapat dinyatakan sebagai \(c^2 = a^2 + b^2\), di mana \(c\) adalah panjang hipotenusa, dan \(a\) serta \(b\) adalah panjang sisi-sisi yang membentuk sudut siku-siku.
+
+2. **Pengaruh dalam Musik**: Pythagoras juga tertarik pada bidang musik dan mengembangkan teori musik yang melibatkan hubungan antara panjang senar dan frekuensi bunyi yang dihasilkan. Konsep "rasio Pythagorean" adalah dasar bagi pemahaman kita tentang hubungan antara nada-nada dalam musik.
+
+3. **Pythagoreanisme**: Pythagoras mendirikan komunitas keagamaan yang dikenal sebagai "Sekolah Pythagoras" di Kroton, Italia Selatan. Sekolah ini menggabungkan elemen filosofis, matematika, dan agama. Anggota-anggota komunitas ini dikenal sebagai "Pythagoreans" dan mereka memiliki ajaran-ajaran khusus tentang etika, matematika, dan kehidupan spiritual.
+
+4. **Kepercayaan pada Reinkarnasi dan Transmigrasi Jiwa**: Pythagoras dan para pengikutnya meyakini konsep reinkarnasi, yaitu keyakinan bahwa jiwa manusia dapat terlahir kembali dalam tubuh lain setelah kematian. Mereka juga memegang keyakinan transmigrasi jiwa, yang berarti bahwa jiwa dapat berpindah ke berbagai bentuk kehidupan, termasuk hewan.
+
+5. **Pengaruh dalam Filsafat Barat**: Pythagoras memiliki pengaruh yang signifikan dalam perkembangan filsafat Barat, terutama melalui kontribusinya dalam matematika. Ajaran-ajaran Pythagoras memengaruhi banyak filsuf dan matematikawan selanjutnya, dan konsep matematika yang dikembangkan olehnya tetap relevan hingga hari ini.
+
+Pythagoras adalah salah satu figur penting dalam sejarah ilmu pengetahuan, matematika, dan filsafat. Teorema Pythagoras yang ia temukan menjadi dasar penting dalam matematika, dan ajaran-ajarannya dalam Pythagoreanisme memberikan kontribusi pada pemikiran filosofis dan keagamaan di dunia kuno.
+        </item>
+        <item>
+            Parmenides adalah seorang filsuf Yunani kuno yang hidup sekitar tahun 515-450 SM. Ia berasal dari kota Elea, yang terletak di wilayah yang sekarang menjadi bagian dari Italia Selatan. Parmenides dikenal karena kontribusinya dalam bidang metafisika dan filsafat ontologis. Berikut adalah beberapa poin penting tentang Parmenides:
+
+1. **Monisme**: Ajaran utama Parmenides adalah monisme, yaitu keyakinan bahwa hanya ada satu realitas yang ada, dan realitas itu adalah yang tunggal, abadi, dan tidak berubah. Ia menyatakan bahwa apa yang nyata adalah "Satu" atau "Being" (ada), sedangkan apa yang tidak nyata adalah "Non-Being" (tidak ada).
+
+2. **Pemisahan antara Pengetahuan dan Persepsi**: Parmenides mengajukan perbedaan yang tajam antara apa yang kita ketahui melalui akal budi dan pemikiran rasional (episteme) dengan apa yang kita alami melalui indera dan persepsi (doxa). Baginya, pengetahuan yang benar hanya dapat ditemukan dalam pemikiran rasional, sementara persepsi indera dapat menyesatkan karena melibatkan pengalaman dunia yang berubah.
+
+3. **Kritik terhadap Konsep Perubahan**: Parmenides menolak gagasan perubahan atau gerakan. Ia berpendapat bahwa apa pun yang berubah sebenarnya tidak benar-benar ada karena hanya ada satu realitas yang abadi dan tidak berubah. Konsep ini berlawanan dengan pemikiran Heraclitus yang mempercayai perubahan sebagai inti dari segala sesuatu.
+
+4. **Pengaruh pada Filosofi Berikutnya**: Ajaran Parmenides memiliki pengaruh yang besar pada perkembangan filsafat Barat. Pengikutnya, seperti Zeno dari Elea, mengembangkan argumen-argumen paradoks yang mengeksplorasi implikasi dari monisme Parmenides. Ajarannya juga menjadi subjek diskusi dalam pemikiran Plato dan Aristoteles.
+
+5. **Puisi Filosofis**: Salah satu cara Parmenides menyampaikan ajarannya adalah melalui puisi filosofis. Karyanya yang terkenal adalah "On Nature" (Tentang Alam), sebuah puisi yang berisi ajaran-ajaran filosofisnya tentang alam semesta, eksistensi, dan realitas.
+
+Meskipun pemikiran Parmenides mungkin sulit untuk dipahami dan dianggap kontroversial dalam sejarah filsafat, konsep monismenya dan pemisahan antara pengetahuan rasional dan persepsi indera tetap menjadi topik diskusi dan penelitian dalam filsafat hingga saat ini. Ia dianggap sebagai salah satu tokoh penting dalam perkembangan pemikiran filosofis.
+        </item>
+        <item>
+            Herakleitos (juga dieja sebagai Heraclitus) adalah seorang filsuf Yunani kuno yang hidup sekitar tahun 535-475 SM. Ia berasal dari Efesus, sebuah kota di wilayah yang sekarang menjadi bagian dari Turki. Herakleitos dikenal karena ajarannya yang berfokus pada perubahan, konsep logika, dan filsafat alam semesta. Berikut adalah beberapa poin penting tentang Herakleitos:
+
+1. **Doktrin Perubahan**: Herakleitos dianggap sebagai filsuf perubahan (flux). Ia terkenal dengan frasa, "Anda tidak bisa masuk dua kali ke dalam sungai yang sama." Dengan kata lain, ia percaya bahwa alam semesta selalu dalam keadaan perubahan konstan, dan tidak ada yang tetap atau abadi. Ia berpendapat bahwa perubahan adalah hukum alam yang paling mendasar dan bahwa kita harus memahami dan menerima perubahan ini.
+
+2. **Konsep Logos**: Herakleitos mengembangkan konsep "Logos," yang dapat diterjemahkan sebagai "akal budi" atau "rasionalitas ilahi." Baginya, Logos adalah prinsip yang mengatur alam semesta dan memberikan struktur pada perubahan. Ia melihat Logos sebagai kekuatan yang mengendalikan segala sesuatu dan menjadikan alam semesta berfungsi secara harmonis.
+
+3. **Sikap Terhadap Perselisihan dan Oposisi**: Herakleitos menekankan pentingnya konflik dan pertentangan dalam mencapai keseimbangan dan harmoni. Ia berpendapat bahwa konflik adalah bagian alami dari perubahan dan perkembangan. Ia juga mengatakan, "Pertentangan adalah ayah dari semuanya," menekankan bahwa konflik adalah bagian dari proses alamiah dalam mencapai kesatuan.
+
+4. **Pengaruh pada Filsafat Berikutnya**: Ajaran Herakleitos memiliki pengaruh yang signifikan dalam perkembangan filsafat Barat. Ia dianggap sebagai salah satu pendiri aliran filsafat presokratik dan pemikir seperti Plato dan Aristoteles merujuk pada pemikirannya dalam karyanya. Konsep Logosnya juga memiliki pengaruh besar pada perkembangan filsafat dan teologi Kristen.
+
+5. **Gaya Penulisan Khusus**: Herakleitos dikenal dengan gaya penulisannya yang sulit dipahami. Ia sering kali menggunakan bahasa metaforis dan ungkapan yang ambigu, sehingga banyak dari tulisannya memiliki interpretasi yang beragam. Karena gaya penulisannya yang khas, ia sering disebut sebagai "Filsuf yang Menyendiri."
+
+Herakleitos adalah tokoh penting dalam sejarah pemikiran filosofis, terutama dalam pengembangan konsep perubahan, Logos, dan hubungan antara konflik dan harmoni dalam alam semesta. Ajarannya memberikan pandangan yang unik dan mendalam tentang sifat realitas dan filsafat alam semesta.
+        </item>
+        <item>
+            Anaxagoras adalah seorang filsuf Yunani kuno yang hidup sekitar tahun 500-428 SM. Ia berasal dari kota Clazomenae, yang terletak di wilayah yang sekarang menjadi bagian dari Turki. Anaxagoras dikenal karena kontribusinya dalam bidang kosmologi dan ilmu alam. Berikut adalah beberapa poin penting tentang Anaxagoras:
+
+1. **Kosmologi dan Konsep Nous**: Salah satu ajaran utama Anaxagoras adalah konsep "Nous" (akal atau pikiran). Ia berpendapat bahwa semua materi dalam alam semesta adalah campuran dari unsur-unsur dasar, tetapi ada kekuatan atau pikiran yang mengatur dan mengendalikan materi ini. Pikiran ini disebut "Nous," yang dianggap sebagai kekuatan intelektual yang mengatur dan menciptakan tatanan dalam alam semesta.
+
+2. **Penolakan Elemen Dasar Empedokles**: Anaxagoras menolak konsep empat elemen dasar (tanah, air, udara, dan api) yang diajukan oleh Empedokles, seorang filsuf presokratik lainnya. Sebaliknya, ia berpendapat bahwa materi dasar alam semesta adalah partikel-partikel kecil yang disebut "nous" (tidak sama dengan konsep Nous yang lebih tinggi) yang memiliki potensi untuk menjadi berbagai jenis materi berdasarkan komposisi mereka.
+
+3. **Pengaruh dalam Ilmu Pengetahuan dan Filsafat Alam**: Anaxagoras adalah salah satu tokoh penting dalam perkembangan ilmu pengetahuan dan filsafat alam. Ia adalah salah satu tokoh pertama yang mengusulkan gagasan bahwa semua peristiwa alam dapat dijelaskan melalui prinsip-prinsip alami dan ilmiah, bukan hanya oleh campuran elemen-elemen yang acak.
+
+4. **Pengaruh pada Filsuf Berikutnya**: Ajaran Anaxagoras memiliki pengaruh yang signifikan pada perkembangan filsafat Yunani kuno. Pengikutnya termasuk filsuf terkenal seperti Empedokles dan peran penting dalam perkembangan pemikiran Plato. Ajarannya tentang konsep pikiran atau akal yang mengatur alam semesta memberikan kontribusi penting dalam perkembangan kosmologi dan teologi dalam filsafat.
+
+5. **Tuduhan Blasfemi**: Anaxagoras mengalami kesulitan dalam hidupnya karena pemikirannya yang kontroversial. Ia dituduh melakukan ajaran yang dianggap menodai keyakinan tradisional tentang dewa-dewa, dan akibatnya, ia diasingkan dari Athena pada tahun 450 SM.
+
+Anaxagoras adalah seorang pemikir yang berfokus pada hubungan antara akal dan alam semesta, dengan memperkenalkan konsep Nous yang mengatur materi alam semesta. Kontribusinya dalam mempromosikan pemikiran ilmiah dan filosofis yang rasional menjadi landasan bagi perkembangan filsafat alam Yunani kuno.
+        </item>
+        <item>
+            Empedokles adalah seorang filsuf Presokratik yang hidup sekitar tahun 490-430 SM. Ia berasal dari kota Akragas, yang terletak di wilayah yang sekarang menjadi bagian dari Sisilia, Italia. Empedokles dikenal karena kontribusinya dalam bidang filsafat alam dan pemikiran kosmologi. Berikut adalah beberapa poin penting tentang Empedokles:
+
+1. **Empat Elemen Dasar**: Empedokles mengembangkan teori yang terkenal tentang empat elemen dasar yang membentuk segala sesuatu dalam alam semesta. Empat elemen ini adalah tanah, air, udara, dan api. Menurutnya, kombinasi dan perubahan relatif dari elemen-elemen ini menghasilkan berbagai benda dan fenomena alam.
+
+2. **Konsep Cinta dan Pertentangan**: Empedokles juga memperkenalkan konsep "cinta" (philia) dan "pertentangan" (neikos) sebagai prinsip-prinsip yang mengendalikan perubahan dalam alam semesta. Menurutnya, cinta menyatukan elemen-elemen, sementara pertentangan memisahkan mereka. Keduanya bekerja bersama-sama dalam menciptakan berbagai perubahan dalam alam semesta.
+
+3. **Teori Evolusi**: Empedokles memiliki pandangan unik tentang evolusi. Ia berpendapat bahwa berbagai organisme dan makhluk hidup muncul melalui kombinasi acak elemen-elemen dasar yang disebut "philo-mixis" atau "perkawinan cinta." Teori ini memberikan pandangan awal tentang bagaimana berbagai bentuk kehidupan dapat berkembang.
+
+4. **Pengaruh pada Filsuf Berikutnya**: Ajaran Empedokles memiliki pengaruh yang signifikan pada perkembangan filsafat Yunani kuno. Filsuf-filsuf seperti Plato dan Aristoteles merujuk pada pemikiran dan teori-teorinya dalam karya-karya mereka. Konsep elemen dasar yang dikembangkan olehnya juga menjadi landasan bagi pemikiran ilmiah dan filsafat alam selanjutnya.
+
+5. **Karya "Purifications"**: Salah satu karya terkenal Empedokles adalah "Purifications" (Pembersihan). Sayangnya, sebagian besar karya ini telah hilang, dan hanya tersisa fragmen-fragmen yang tersebar. Namun, fragmen-fragmen ini masih memberikan wawasan tentang pemikiran dan ajaran filsafatnya.
+
+Empedokles adalah seorang pemikir yang mencoba menjelaskan alam semesta melalui prinsip-prinsip alamiah dan pemikiran kosmologis. Kontribusinya dalam pengembangan konsep empat elemen dasar dan peran cinta dan pertentangan dalam alam semesta telah memberikan kontribusi penting dalam perkembangan filsafat alam Yunani kuno.
+        </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/88/Epikouros_BM_1843.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/800px-Socrates_Louvre.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Illustrerad_Verldshistoria_band_I_Ill_107.jpg/800px-Illustrerad_Verldshistoria_band_I_Ill_107.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg/320px-Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kapitolinischer_Pythagoras_adjusted.jpg/220px-Kapitolinischer_Pythagoras_adjusted.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sanzio_01_Parmenides.jpg/320px-Sanzio_01_Parmenides.jpg</item>
+        <item>https://t0.gstatic.com/licensed-image?q=tbn:ANd9GcQUIGLhxqRDX4cmnjQ_x_1JFYJ5a9eL_SMp8OSeg1DwkhLO61oBWrmtS4N5DHvrMHKW</item>
+        <item>https://studiousguy.com/wp-content/uploads/2021/11/anaxagoras.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/79/Empedokles.jpeg</item>
+    </string-array>
+
+</resources>
